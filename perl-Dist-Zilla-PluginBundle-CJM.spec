@@ -1,5 +1,5 @@
 %define upstream_name    Dist-Zilla-PluginBundle-CJM
-%define upstream_version 0.05
+%define upstream_version 0.07
 
 Name:       perl-%{upstream_name}
 Version:    %perl_convert_version %{upstream_version}
